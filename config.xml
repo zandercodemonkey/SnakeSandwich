@@ -8,7 +8,7 @@
   <name>Snake Sandwich</name>
 
   <description>Snake Sandwich</description>
-  <preference name="phonegap-version" value="cli-5.2.0" />
+  <preference name="phonegap-version" value="cli-6.3.0" />
   <preference value="none" name="permissions"/>
   <plugin name="cordova-plugin-whitelist" />
 
